@@ -7,7 +7,9 @@ Main purpose of this project is to demonstrate my understanding on the basics of
 
 #### Guidelines to Follow:
 
-The framework is utilized by specifying the number of columns to cover (totalling to 16) within each row of `class="row"` that is nested in the parent container div of `class="container"`.
+Begin by importing `framework.css` from this repository into your HTML file.
+
+This framework is utilized by specifying the number of columns to cover (totalling to 16) within each row of `class="row"` that is nested in the parent container div of `class="container"`.
 
 ```html
 <body>
