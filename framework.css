@@ -10,19 +10,23 @@ body { width: 100vw;}
 }
 
 .container .row {
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
     display: flex;
     flex-wrap: nowrap;
-}
-
-@media (max-width: 800px) {
-    .container {width: 90%;}
+    min-height: 25px;
 }
 
 .container .row [class*="col-width-"] {
-    padding: 0 5px;
-    height: 25px;
+    padding: 5px 5px;
+}
+
+.container .row:first-of-type {
+    padding-top: 10px;
+}
+
+.container .row:last-of-type {
+    padding-bottom: 10px;
 }
 
 .container .row [class*="col-width-"]:first-of-type {
