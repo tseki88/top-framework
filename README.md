@@ -37,4 +37,4 @@ If the total col-width within the row exceeds 16, each col-width prior to that w
 #### Example in Use:
 Please checkout index.html within repository of this framework used to recreate Juno's home page [www.junocollege.com]. (in progress)
 
-![Screenshot](./assets/Screenshot_2019-11-10 Document.png)
+![screenshot](./assets/screenshot.png)
