@@ -35,32 +35,4 @@ If the total col-width within the row exceeds 16, each col-width prior to that w
 
 
 #### Example in Use:
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-    <link rel="stylesheet" href="framework.css">
-</head>
-<body>
-    <div class="container">
-        <div class="row">
-            <div class="col-width-2 pink">Hi</div>
-            <div class="col-width-4 blue">This is a Title</div>
-            <div class="col-width-4 pink"></div>
-            <div class="col-width-2 green">Maybe</div>
-        </div>
-        <div class="row">
-            <div class="col-width-1 purple">1</div>
-            <div class="col-width-2 pink">2</div>
-            <div class="col-width-5 red">5</div>
-            <div class="col-width-8 blue"></div>
-        </div>
-    </div>
-</body>
-</html>
-```
-![Example Screen](./demo-screenshot.png)
+Please checkout index.html within repository of this framework used to recreate Juno's home page [www.junocollege.com]. (in progress)

@@ -1,0 +1,57 @@
+.clr-wrapper {
+    background-color: #fcf9f7;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.container {
+    width: 80%;
+    background-color: white;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    float: left;
+    width: 25%;
+    text-align: center;;
+}
+
+img {
+    width: 100%;
+}
+
+article {
+    margin: 50px auto;
+}
+
+article img {
+    width: initial;
+}
+
+article a {
+    color: #ea593e;
+}
+
+.btn-orange {
+    background-color: #ea593e;
+    color: white;
+    text-align: center;
+}
+
+.btn-white {
+    background-color: whitesmoke;
+    color: #ea593e;
+    text-align: center;
+}
+
+button .btn-white {
+    border: 1px solid #ea593e;
+}
